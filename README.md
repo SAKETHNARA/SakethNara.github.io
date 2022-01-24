@@ -1,2 +1,1 @@
-
-#coursera assignments
+Coursera Assignments
